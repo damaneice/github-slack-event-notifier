@@ -1,4 +1,7 @@
-channel: test
-repo: ''
-owner: ''
-webhook_url: ''
+channel: >
+  test
+repo: >
+
+owner: >
+
+webhook_url: >
